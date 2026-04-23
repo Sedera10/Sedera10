@@ -5,26 +5,7 @@
 </p>
 
 ## About me
-Fullstack Developer focused on building modern web applications (Frontend + Backend) with solid database design.
-
-## Tech stack
-
-### Frontend
-- React.js
-- Vue.js
-- Bootstrap
-
-### Backend
-- Java
-- PHP (Flight)
-- Laravel
-
-### Database
-- MySQL
-- PostgreSQL
-- MongoDB
-
----
+Fullstack Developer focused on building modern web/mobile applications (Frontend + Backend) with solid database design.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sedera10&show_icons=true&theme=tokyonight" />
